@@ -1,0 +1,11 @@
+.nav-title{
+    color: white ;
+    background-color: grey;
+    margin: 20px;
+    padding: 20px;
+}
+.nav-links{
+    display: flex;
+    justify-content: space-around;
+    
+}
